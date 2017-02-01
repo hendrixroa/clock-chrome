@@ -1,0 +1,11 @@
+{
+    "manifest_version" : 2,
+    "name" : "Reloj",
+    "description" : "Extension para ver la hora",
+    "version" : "1.0",
+    "browser_action" :  {
+        "default_tittle" : "Reloj",
+        "default_icon" : "clock.png",
+        "default_popup" : "popup.html"
+    }
+}
